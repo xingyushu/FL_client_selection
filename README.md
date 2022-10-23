@@ -1,5 +1,5 @@
 # FL_client_selection
-Federated learning client selection
+
 
 
 [FedAECS](https://github.com/jjzgeeks/FedAECS)
