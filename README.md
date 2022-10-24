@@ -12,3 +12,5 @@
 Start:
 
 [Implementation of the vanilla federated learning paper : Communication-Efficient Learning of Deep Networks from Decentralized Data.](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
+
+[Federated-Averaging-PyTorch](https://github.com/vaseline555/Federated-Averaging-PyTorch)
