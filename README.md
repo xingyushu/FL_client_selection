@@ -15,4 +15,6 @@ Start:
 
 [Federated-Averaging-PyTorch](https://github.com/vaseline555/Federated-Averaging-PyTorch)
 
+[FedSGD](https://github.com/LeiDu-dev/FedSGD)
+
 [Pytorch](https://github.com/xingyushu/thorough-pytorch)
