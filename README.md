@@ -8,6 +8,8 @@
 
 [Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning](https://github.com/Yoruko-Tang/FedCor)
 
+[Oort: Efficient Federated Learning via Guided Participant Selection](https://github.com/SymbioticLab/Oort)
+
 
 Start:
 
