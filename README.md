@@ -25,7 +25,7 @@
 
 
 
-Start:
+### Start:
 
 [Implementation of the vanilla federated learning paper : Communication-Efficient Learning of Deep Networks from Decentralized Data.](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
 
