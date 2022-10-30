@@ -20,6 +20,8 @@
 
 [FL_Particpant_selection_Bandwidth_Allocation_Based_Fixed_and_dynamic_deadline](https://github.com/Abdullatif2/FL_Particpant_selection_Based_Fixed_and_dynamic_deadline)
 
+[FedSNN-ClientSelection](https://github.com/peter0201yu/FedSNN-ClientSelection)
+
 
 ### Wireless related 
 
