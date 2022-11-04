@@ -26,7 +26,9 @@
 ### Wireless related 
 
 [FEDL-INFOCOM](https://arxiv.org/pdf/1910.13067.pdf)[[code]](https://github.com/nhatminh/FEDL-INFOCOM)
+
 [Federated Learning in Wireless Network](https://github.com/ShenJinglong/WFL)
+
 [Federated Learning Applications to Wireless Networks - A Demonstration](https://github.com/zanderman/federated-learning-wireless-demo)
 
 
