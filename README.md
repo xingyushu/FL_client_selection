@@ -43,3 +43,8 @@
 [Pytorch](https://github.com/xingyushu/thorough-pytorch)
 
 [Pytorch from zero to one](https://github.com/deeplearningzerotoall/PyTorch)
+
+### Federated Learning related
+
+[Federated learning](https://github.com/lokinko/Federated-Learning)
+
