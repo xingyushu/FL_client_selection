@@ -41,3 +41,5 @@
 [FedSGD](https://github.com/LeiDu-dev/FedSGD)
 
 [Pytorch](https://github.com/xingyushu/thorough-pytorch)
+
+[Pytorch from zero to one](https://github.com/deeplearningzerotoall/PyTorch)
