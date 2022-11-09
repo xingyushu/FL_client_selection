@@ -37,6 +37,8 @@
 
 [CSI-Activity-Recognition](https://github.com/ludlows/CSI-Activity-Recognition)
 
+[Implementation in Python for the parsing of raw CSI data files.](https://github.com/DanielHaimanot/python_wifi_csi_extractor)
+
 ### Start:
 
 [Implementation of the vanilla federated learning paper : Communication-Efficient Learning of Deep Networks from Decentralized Data.](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
