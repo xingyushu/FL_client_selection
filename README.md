@@ -41,8 +41,6 @@
 
 [Implementation in Python for the parsing of raw CSI data files.](https://github.com/DanielHaimanot/python_wifi_csi_extractor)
 
-[CSI fuzzer](https://github.com/open-sdr/openwifi)
-
 [wifi-csi process](https://github.com/zzh606/wifi-csi)
 
 [WiFi-CSI-Sensing-Benchmark](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark)
@@ -54,6 +52,20 @@
 [Source codes for "EfficientFi: Towards Large-Scale Lightweight WiFi Sensing via CSI Compression](https://github.com/Marsrocky/EfficientFi)
 
 [wifi-csi-sniffer](https://github.com/orkunispir/wifi-csi-sniffer)
+
+### Attack/Fake/Forge
+
+[CSI fuzzer](https://github.com/open-sdr/openwifi)
+
+[OFDM CSI for physical tamper attack detection.](https://github.com/isaac1369/Physical-Tamper-Attack-Detection)
+
+[Vulnerability and Protection of Channel State Informationin Multiuser MIMO Networks](https://rtcl.eecs.umich.edu/papers/publications/2014/paper-ccs.pdf)
+
+[On User Selective Eavesdropping Attacks in MU-MIMO: CSI Forgery and Countermeasure](https://seit.egr.msu.edu/paper/INFOCOM19_USEAttack.pdf)
+
+
+
+
 
 ### Start:
 
