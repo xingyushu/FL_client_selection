@@ -45,6 +45,16 @@
 
 [wifi-csi process](https://github.com/zzh606/wifi-csi)
 
+[WiFi-CSI-Sensing-Benchmark](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark)
+
+[Core codes on Fall detection with CSI data (WiFi signals)](https://github.com/mabagheri/FallDetection)
+
+[Keystroke-recognition-of-Smart-Device-Based-on-WIFI](https://github.com/Ericfengdc/Keystroke-recognition-of-Smart-Device-Based-on-WIFI)
+
+[Source codes for "EfficientFi: Towards Large-Scale Lightweight WiFi Sensing via CSI Compression](https://github.com/Marsrocky/EfficientFi)
+
+[wifi-csi-sniffer](https://github.com/orkunispir/wifi-csi-sniffer)
+
 ### Start:
 
 [Implementation of the vanilla federated learning paper : Communication-Efficient Learning of Deep Networks from Decentralized Data.](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
