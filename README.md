@@ -23,7 +23,7 @@
 [FedSNN-ClientSelection](https://github.com/peter0201yu/FedSNN-ClientSelection)
 
 
-### Wireless related 
+### Wireless/CSI related 
 
 [FEDL-INFOCOM](https://arxiv.org/pdf/1910.13067.pdf)[[code]](https://github.com/nhatminh/FEDL-INFOCOM)
 
@@ -33,6 +33,7 @@
 
 [Segment-and-Track-Human-Using-Wireless-Signal](https://github.com/shleee47/Segment-and-Track-Human-Using-Wireless-Signal)
 
+[A deep learning-based activity segmentation framework for activity recognition using WiFi Channel State Information (CSI).](https://github.com/ChunjingXiao/DeepSeg)
 
 ### Start:
 
