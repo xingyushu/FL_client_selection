@@ -25,6 +25,8 @@
 
 ### Wireless/CSI related 
 
+[Accelerate your WiFi CSI research progress by sharing and cooperation!](https://github.com/wuzhiguocarter/Awesome-WiFi-CSI-Research)
+
 [FEDL-INFOCOM](https://arxiv.org/pdf/1910.13067.pdf)[[code]](https://github.com/nhatminh/FEDL-INFOCOM)
 
 [Federated Learning in Wireless Network](https://github.com/ShenJinglong/WFL)
@@ -40,6 +42,8 @@
 [Implementation in Python for the parsing of raw CSI data files.](https://github.com/DanielHaimanot/python_wifi_csi_extractor)
 
 [CSI fuzzer](https://github.com/open-sdr/openwifi)
+
+[wifi-csi process](https://github.com/zzh606/wifi-csi)
 
 ### Start:
 
