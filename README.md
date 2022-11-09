@@ -31,7 +31,7 @@
 
 [Federated Learning Applications to Wireless Networks - A Demonstration](https://github.com/zanderman/federated-learning-wireless-demo)
 
-[CSI learning](https://github.com/shleee47/Segment-and-Track-Human-Using-Wireless-Signal)
+[Segment-and-Track-Human-Using-Wireless-Signal](https://github.com/shleee47/Segment-and-Track-Human-Using-Wireless-Signal)
 
 
 ### Start:
