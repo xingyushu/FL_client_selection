@@ -35,6 +35,8 @@
 
 [A deep learning-based activity segmentation framework for activity recognition using WiFi Channel State Information (CSI).](https://github.com/ChunjingXiao/DeepSeg)
 
+[CSI-Activity-Recognition](https://github.com/ludlows/CSI-Activity-Recognition)
+
 ### Start:
 
 [Implementation of the vanilla federated learning paper : Communication-Efficient Learning of Deep Networks from Decentralized Data.](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
