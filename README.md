@@ -2,7 +2,7 @@
 
 
 
-[Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://github.com/COPS-IITBHU/HCSFL)
+[Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://github.com/COPS-IITBHU/HCSFL)
 
 [Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies](https://github.com/Harshik97/Efficient-Client-Selection-in-Federated-Learning.)
 
