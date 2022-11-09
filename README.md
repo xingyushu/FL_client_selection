@@ -39,6 +39,8 @@
 
 [Implementation in Python for the parsing of raw CSI data files.](https://github.com/DanielHaimanot/python_wifi_csi_extractor)
 
+[CSI fuzzer](https://github.com/open-sdr/openwifi)
+
 ### Start:
 
 [Implementation of the vanilla federated learning paper : Communication-Efficient Learning of Deep Networks from Decentralized Data.](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
