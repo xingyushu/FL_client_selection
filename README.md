@@ -63,6 +63,7 @@
 
 [On User Selective Eavesdropping Attacks in MU-MIMO: CSI Forgery and Countermeasure](https://seit.egr.msu.edu/paper/INFOCOM19_USEAttack.pdf)
 
+[Using Channel State Information for Physical Tamper Attack Detection inOFDM Systems: A Deep Learning Approach](https://arxiv.org/pdf/2011.03573)
 
 
 
