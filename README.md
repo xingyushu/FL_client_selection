@@ -80,7 +80,7 @@
 
 [Pytorch from zero to one](https://github.com/deeplearningzerotoall/PyTorch)
 
-### Federated Learning related
+### Federated Learning papers in recent years
 
-[Federated learning](https://github.com/lokinko/Federated-Learning)
+[Federated learning papers](https://github.com/lokinko/Federated-Learning)
 
