@@ -6,7 +6,7 @@
 
 [Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies](https://github.com/Harshik97/Efficient-Client-Selection-in-Federated-Learning.)
 
-[Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning](https://github.com/Yoruko-Tang/FedCor)
+[FedCor:Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning](https://github.com/Yoruko-Tang/FedCor)
 
 [[OSDI]Oort: Efficient Federated Learning via Guided Participant Selection](https://github.com/SymbioticLab/Oort)
 
