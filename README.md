@@ -22,7 +22,7 @@
 
 [FedSNN-ClientSelection](https://github.com/peter0201yu/FedSNN-ClientSelection)
 
-[[ICLR2022][Divfl](https://github.com/melodi-lab/divfl)
+[[ICLR2022]Divfl](https://github.com/melodi-lab/divfl)
 
 ### Wireless/CSI related 
 
