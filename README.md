@@ -90,3 +90,13 @@
 
 ### My code:
 [FL with different client selection algo.](https://github.com/xingyushu/Active-Client-Selection-for-Communication-efficient-Federated-Learning)
+
+### preliminary
+
+[Accuracy-and-loss](https://machine-learning.paperspace.com/wiki/accuracy-and-loss)
+
+[Gradient-descent](https://machine-learning.paperspace.com/wiki/gradient-descent)
+
+
+
+
