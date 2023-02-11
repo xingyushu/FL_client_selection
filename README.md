@@ -88,7 +88,7 @@
 [Federated learning papers](https://github.com/lokinko/Federated-Learning)
 
 
-### My code:
+### Sample code:
 [FL with different client selection algo.](https://github.com/xingyushu/Active-Client-Selection-for-Communication-efficient-Federated-Learning)
 
 ### preliminary
@@ -98,5 +98,7 @@
 [Gradient-descent](https://machine-learning.paperspace.com/wiki/gradient-descent)
 
 
+### Dataset
 
+[Leaf dataset](https://leaf.cmu.edu/)
 
