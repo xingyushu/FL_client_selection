@@ -89,7 +89,7 @@
 
 
 ### Sample code:
-[FL with different client selection algo.](https://github.com/xingyushu/Active-Client-Selection-for-Communication-efficient-Federated-Learning)
+[FL with different client selection algo.](https://github.com/xingyushu/MaxRateSelection)
 
 ### preliminary
 
