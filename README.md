@@ -109,3 +109,4 @@
 
 [Leaf dataset](https://leaf.cmu.edu/)
 
+[CSI-Activity-Recognition data](https://github.com/ludlows/CSI-Activity-Recognition)
